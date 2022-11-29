@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arrudax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
 </div>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudax)](https://github.com/arrudax/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudax)](https://github.com/arrudax/github-readme-stats)
