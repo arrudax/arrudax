@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arrudax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
 </div>
 
-<div>
+
 <div align="center"> 
-  <a href = "https://nadei.42sp.org.br/%22%3E<img align="center" alt="Marco-participante da piscina" height="100rem" width="100rem" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+  <a href = "https://nadei.42sp.org.br/%22%3E"
+    <img align="center" alt="Marco-participante da piscina" height="100rem" width="100rem" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank">
+  </a> 
 </div>
-</div>
+
