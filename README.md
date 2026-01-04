@@ -9,22 +9,13 @@
   Olá! Eu sou o Marco Arruda
 </h1>
 
-<h3 align="center">🚀 Desenvolvedor Full Stack | 🎨 Pixel Art Enthusiast | 🖋️ Tattoo Lover</h3>
+<h3 align="center">🚀 Game Developer (Unity / C#) | 🎨 Pixel Art Enthusiast | 🖋️ Tattoo Lover</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrudax&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
-
-## 👨‍💻 Sobre Mim
-
-E aí, pessoal! Sou o **Marco Arruda**, mas pode chamar de **arrudax**. 
-
-🔹 **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras  
-🔹 **Estudante da 42 São Paulo** - sempre em busca de novos desafios  
-🔹 **Entusiasta de pixel art** e tatuagens - criatividade sem limites  
-🔹 **Especialista em** tecnologias modernas como Node.js, React e Django  
+--- 
 
 ```javascript
 const marco = {
@@ -49,9 +40,13 @@ const marco = {
 
 ### 💻 Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -113,6 +108,14 @@ const marco = {
 ---
 
 ## 🚀 Projetos em Destaque
+<div align="center">
+  <a href="https://github.com/arrudax/startGameDev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arrudax&repo=startGameDev&theme=dark&hide_border=true" alt="startGameDev"/>
+  </a>
+  <a href="https://github.com/arrudax/Libft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arrudax&repo=Libft&theme=dark&hide_border=true" alt="Libft"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/arrudax/printf">
@@ -202,16 +205,28 @@ const marco = {
 
 ---
 
-### 🎮 **Projetos Criativos**
+### 🎮 **Projetos Games**
 
 #### ⚔️ [tiny_knight_DIO](https://github.com/arrudax/tiny_knight_DIO)
 **Game desenvolvido para a Digital Innovation One**
-- **Tech Stack:** JavaScript, HTML5 Canvas
+- **Tech Stack:** Godot
 - **Features:**
   - 🎮 Gameplay dinâmico
   - 🎨 Pixel art personalizada
   - 🏆 Sistema de pontuação
   - 🎵 Efeitos sonoros integrados
+
+---
+
+#### ⚔️ [StartGameDev](https://github.com/arrudax/startGameDev)
+Protótipo de jogo desenvolvido em **Unity** como parte da minha formação em **Game Development**, com foco na implementação de **mecânicas e sistemas de gameplay**.
+
+- **Engine / Tech:** Unity • C#  
+- **Escopo do projeto:**
+  - Sistema de movimentação do personagem
+  - Estrutura inicial de NPCs
+  - HUD para exibição de informações do jogo
+  - Organização de projeto e código voltada à escalabilidade
 
 ---
 
