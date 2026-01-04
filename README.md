@@ -17,19 +17,39 @@
 
 --- 
 
-```javascript
-const marco = {
-    code: ["JavaScript", "TypeScript", "Python", "C"],
-    technologies: {
-        frontEnd: ["React", "React Native", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Express", "Django", "REST APIs"],
-        databases: ["PostgreSQL", "MongoDB"],
-        tools: ["Docker", "Git", "Linux", "Figma"],
-        testing: ["Jest"]
-    },
-    currentFocus: "Construindo experiências web excepcionais",
-    funFact: "Amo transformar pixels em arte e ideias em código!"
-};
+```C#
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Marco : MonoBehaviour
+{
+    public static Marco instance { get; private set; }
+
+    private void Awake()
+    {
+        if (instance != null && instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
+    private List<string> GetStacks()
+    {
+        return new List<string>
+        {
+            "C",
+            "C#",
+            "Unity",
+            "Game Development",
+            "Backend",
+            "Pixel Art (em progresso)"
+        };
+    }
+}
+
 ```
 
 ---
@@ -70,23 +90,6 @@ const marco = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arrudax&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudax&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
